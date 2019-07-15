@@ -6,3 +6,4 @@ Cocos-creator 官方例子---摘星星
     引用测试
 代码：
 `git clone git@github.com:Letusgetastart/starProject.git`
+###修改测试
